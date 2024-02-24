@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: aqua;
+}
+img{
+    width: 60%;
+}
+p{
+    color: red;
+}
